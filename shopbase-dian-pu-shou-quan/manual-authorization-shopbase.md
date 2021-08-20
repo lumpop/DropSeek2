@@ -1,4 +1,4 @@
-# 手动授权 ShopBase店铺
+# ShopBase店铺 手动授权
 
 **手动授权**
 
