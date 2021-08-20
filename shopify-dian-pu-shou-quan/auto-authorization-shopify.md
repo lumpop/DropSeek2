@@ -12,7 +12,7 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 * 点击【Add to Chrome】
 
-![](../.gitbook/assets/0%20%283%29.jpeg)
+![](../.gitbook/assets/0%20%284%29.jpeg)
 
 * 添加扩展程序
 
@@ -20,7 +20,7 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 * 安装完成
 
-![](../.gitbook/assets/2%20%283%29.jpeg)
+![](../.gitbook/assets/2%20%284%29.jpeg)
 
 2. 进入 **shopify** 店铺后台**-&gt;**应用
 
@@ -28,7 +28,7 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 3. 点击 **dropseek** 插件图标，弹出弹窗
 
-![](../.gitbook/assets/4.jpeg)
+![](../.gitbook/assets/4%20%281%29.jpeg)
 
 4. 点击【**Auth Person APP**】进行授权
 
@@ -36,7 +36,7 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 * 后台授权中，请耐心等待
 
-![](../.gitbook/assets/6.jpeg)
+![](../.gitbook/assets/6%20%281%29.jpeg)
 
 * 授权成功
 
