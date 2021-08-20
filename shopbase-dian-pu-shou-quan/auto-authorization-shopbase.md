@@ -37,7 +37,7 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 1. 授权成功
 
-![](../.gitbook/assets/7%20%283%29.png)
+![](../.gitbook/assets/success_auto.png)
 
 1. 重新进入DropSeek后台，显示店铺已授权
 
