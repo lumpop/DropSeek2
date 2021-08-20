@@ -9,6 +9,6 @@
 
 ## ShopBase 店铺授权指南 <a id="shopbase-dian-pu-shou-quan"></a>
 
-* [ShopBase店铺 自动授权](shopbase-dian-pu-shou-quan/auto-authorization-shopbase.md)
-* [ShopBase店铺 手动授权](shopbase-dian-pu-shou-quan/manual-authorization-shopbase.md)
+* [ShopBase店铺 授权](shopbase-dian-pu-shou-quan/auto-authorization-shopbase.md)
+* [ShopBase店铺 授权](shopbase-dian-pu-shou-quan/manual-authorization-shopbase.md)
 
