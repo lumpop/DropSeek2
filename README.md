@@ -1,4 +1,4 @@
-# DropSeek 操作手册
+# Dropseek 操作手册
 
 ## 关于Dropseek
 
