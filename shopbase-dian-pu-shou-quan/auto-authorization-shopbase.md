@@ -41,5 +41,5 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 1. 重新进入DropSeek后台，显示店铺已授权
 
-![xxxx\_mosaic](../.gitbook/assets/8%20%281%29.png)
+![&#x5E97;&#x94FA;&#x7ED1;&#x5B9A;&#x6210;&#x529F;](../.gitbook/assets/8%20%281%29.png)
 
