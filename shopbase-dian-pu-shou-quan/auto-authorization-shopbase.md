@@ -11,7 +11,8 @@
 https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbkib bkgdbfmcnmhgegklnmj?utm\_source=chrome-ntp-icon
 
 * 点击【Add to Chrome】
-* ![](../.gitbook/assets/0%20%282%29.jpeg)
+
+![](../.gitbook/assets/0%20%282%29.jpeg)
 
 ![](../.gitbook/assets/1%20%282%29.jpeg)
 
@@ -19,15 +20,15 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 ![](../.gitbook/assets/2%20%281%29.jpeg)
 
-1. 进入ShopBase后台店铺后台**-&gt;Apps**
+2. 进入ShopBase后台店铺后台**-&gt;Apps**
 
 ![](../.gitbook/assets/3%20%283%29.png)
 
-1. 点击**dropseek** 插件图标，弹出弹窗
+3. 点击**dropseek** 插件图标，弹出弹窗
 
 ![](../.gitbook/assets/4%20%282%29.png)
 
-1. 点击【**Authorize**】进行授权
+4. 点击【**Authorize**】进行授权
 
 ![](../.gitbook/assets/5%20%282%29.png)
 
@@ -35,11 +36,11 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 ![](../.gitbook/assets/6%20%282%29.png)
 
-1. 授权成功
+* 授权成功
 
 ![](../.gitbook/assets/success_auto.png)
 
-1. 重新进入DropSeek后台，显示店铺已授权
+5. 重新进入DropSeek后台，显示店铺已授权
 
 ![&#x5E97;&#x94FA;&#x7ED1;&#x5B9A;&#x6210;&#x529F;](../.gitbook/assets/8%20%281%29.png)
 
