@@ -1,4 +1,4 @@
-# ShopBase店铺 授权
+# 自动授权 ShopBase店铺
 
 **自动授权**
 
